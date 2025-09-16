@@ -116,7 +116,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Links
 
-- **💬 Support**: [support@argus-sense.com](mailto:argus.sense.suporte@gmail.com)
+- **💬 Support**: [argus.sense.suporte@gmail.com](mailto:argus.sense.suporte@gmail.com)
 - **🐛 Issues**: [GitHub Issues](https://github.com/argus-sense/platform/issues)
 
 ---
